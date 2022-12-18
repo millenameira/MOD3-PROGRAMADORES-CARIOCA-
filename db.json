@@ -1,0 +1,23 @@
+{
+  "Filmes Em Cartaz": (
+    {
+      "id": 1,
+      "titulo": "Pantera Negra 2r",
+      "Preço": R$ 27,00
+    });
+       ({
+      "id": 2,
+      "titulo": "Avatar: O caminho da Água",
+      "Preço": R$ 27,00
+    });
+      ({
+      "id": 3,
+      "titulo": "Mundo Estranho",
+      "Preço": R$ 27,00
+    });
+       ({
+      "id": 4,
+      "titulo": "O Menu",
+      "Preço": R$ 27,00
+    });
+}
